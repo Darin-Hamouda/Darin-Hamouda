@@ -1,7 +1,6 @@
 
 # group 3 - weeks 6-8 Retrospective
 
-
 ## Stop Doing
 
 - Taking too much time to understand the module deliverables.
