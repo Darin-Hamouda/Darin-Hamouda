@@ -1,5 +1,2 @@
-
 # WIREFRAME
-<https://wireframe.cc/huKirE>
-
-
+- [Website wireframe](<https://wireframe.cc/huKirE>)
